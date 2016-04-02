@@ -10,3 +10,4 @@ that were provided in each folder.
 # Gallery
 
 ![Meluva](https://raw.githubusercontent.com/fermentaria-io/rotulos/master/meluva/rotulo.svg.png)
+![PitWit](https://raw.githubusercontent.com/fermentaria-io/rotulos/master/pitwit/rotulo.svg.png)

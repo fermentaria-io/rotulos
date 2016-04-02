@@ -1770,8 +1770,8 @@
          id="_904992064" /><g
          id="g686"
          clip-path="url(#id1)"><image
-           sodipodi:absref="/home/konrad/repos/rotulos/meluva/Images/Rotulo fermentaria.io_ImgID1.png"
-           xlink:href="Images/Rotulo fermentaria.io_ImgID1.png"
+           sodipodi:absref="/home/konrad/repos/rotulos/meluva/Images/background.svg"
+           xlink:href="Images/background.svg"
            id="image688"
            height="11098"
            width="20501"
@@ -2320,8 +2320,8 @@
              style="fill:#753684;fill-rule:nonzero" /></g></g></g><g
        id="g1443"
        clip-path="url(#id3)"><image
-         sodipodi:absref="/home/konrad/repos/rotulos/meluva/Images/Rotulo fermentaria.io_ImgID2.png"
-         xlink:href="Images/Rotulo fermentaria.io_ImgID2.png"
+         sodipodi:absref="/home/konrad/repos/rotulos/meluva/Images/qr.svg"
+         xlink:href="Images/qr.svg"
          id="image1445"
          height="1518"
          width="1518"
