@@ -11,3 +11,4 @@ that were provided in each folder.
 
 ![Meluva](https://raw.githubusercontent.com/fermentaria-io/rotulos/master/meluva/rotulo.svg.png)
 ![PitWit](https://raw.githubusercontent.com/fermentaria-io/rotulos/master/pitwit/rotulo.svg.png)
+![Gengibraggot](https://raw.githubusercontent.com/fermentaria-io/rotulos/master/gengibraggot/rotulo.svg.png)
